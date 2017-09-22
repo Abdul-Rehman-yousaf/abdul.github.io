@@ -275,7 +275,7 @@ body {
 ------------------------------------------------------------------*/
 .progress-box .progress {
   box-shadow: none;
-  height: 3px;
+  /*height: 3px;
 }
 
 .progress-box .progress-bar {
